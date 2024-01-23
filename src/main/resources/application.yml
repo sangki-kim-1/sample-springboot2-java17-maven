@@ -20,7 +20,7 @@ logging:
 # swagger doc
 springdoc:
   version: v0.0.1
-  title: "Sample spring boot2 java gradle"
+  title: "Sample spring boot2 java maven"
   description: "스프링부트2 자바11 샘플 프로젝트"
   packages-to-scan: com.example.samplespringboot2javamaven
   swagger-ui:
