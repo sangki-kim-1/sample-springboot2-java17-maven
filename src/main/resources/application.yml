@@ -1,5 +1,5 @@
 spring:
-  profiles.active: internal
+  profiles.active: external
   jpa:
     hibernate:
       ddl-auto: validate
