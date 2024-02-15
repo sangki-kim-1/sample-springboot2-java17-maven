@@ -11,7 +11,7 @@
 java -jar target/sample-spring-boot-2-java-maven-0.0.1-SNAPSHOT.jar -spring.profiles.active=internal
 ```
 
-### 2. External 통신
+### 2. External 통신 - MariaDB [or MySQL]
 ```
 java -jar target/sample-spring-boot-2-java-maven-0.0.1-SNAPSHOT.jar -spring.profiles.active=external
 ```
