@@ -6,6 +6,12 @@
 ```
 
 ## run
+### 1. Internal 통신 - H2 InMemory
 ```
-java -jar target/sample-spring-boot-2-java-maven-0.0.1-SNAPSHOT.jar
+java -jar target/sample-spring-boot-2-java-maven-0.0.1-SNAPSHOT.jar -spring.profiles.active=internal
+```
+
+### 2. External 통신
+```
+java -jar target/sample-spring-boot-2-java-maven-0.0.1-SNAPSHOT.jar -spring.profiles.active=external
 ```
