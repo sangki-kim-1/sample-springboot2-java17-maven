@@ -9,12 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>sample-spring-boot-2-java-maven</artifactId>
+    <artifactId>sample-spring-boot-2-java17-maven</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>sample-spring-boot-2-java-maven</name>
-    <description>sample-spring-boot-2-java-maven</description>
+    <name>sample-spring-boot-2-java17-maven</name>
+    <description>sample-spring-boot-2-java17-maven</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
